@@ -1,4 +1,4 @@
-# Calculadora-python
+# Calculadora simple en python usando tkinter, clases, herenica
 Calculadora simple en python usando tkinter, clases, herenica 
 
 
